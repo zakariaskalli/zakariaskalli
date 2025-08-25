@@ -16,7 +16,7 @@
 
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/zakaria-sakalli-housaini-1a782b289"> <!-- LinkedIn Profile -->
+  <a href="www.linkedin.com/in/zakaria-skalli-housaini-1a782b289"> <!-- LinkedIn Profile -->
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
   </a>&nbsp;
   <a href="mailto:zakariaskalli90@gmail.com"> <!-- Gmail -->
